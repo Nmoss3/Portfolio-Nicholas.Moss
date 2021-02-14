@@ -157,8 +157,19 @@ img {
   font-size: 40px;
 }
 
-#my-work {
+.my-work {
   border: 5px solid #000;
   border-top: none;
   border-bottom: none;
+  display: flex;
+}
+
+.side {
+  display: flex;
+  flex-direction: column;
+}
+
+.run-buddy {
+  display: block;
+  margin: 5px;
 }
