@@ -58,24 +58,14 @@ header nav ul li a {
   font-size: 1.55vw;
 }
 
-footer {
-  background: #8c8c8c;
-  display: flex;
-  justify-content: space-between;
-  flex-wrap: wrap;
-  width: 100%;
-}
-
-footer h2 {
-  color: #fff;
-  font-size: 30px;
-  margin: 0;
-  font-weight: lighter;
-  text-decoration: underline;
-}
-
 section {
   padding: 50px;
+}
+
+.section-title {
+  font-size: 40px;
+  color: #fff;
+  text-decoration: underline;
 }
 
 .hero {
@@ -106,13 +96,6 @@ section {
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
     "Lucida Sans", Arial, sans-serif;
   color: #fff;
-}
-
-.section-title1 {
-  color: #fff;
-  text-align: left;
-  text-decoration: underline #fff;
-  font-size: 40px;
 }
 
 #about-me {
@@ -150,26 +133,33 @@ img {
   border: 2px solid #000;
 }
 
-.section-title2 {
+a {
+  text-decoration: none;
   color: #fff;
-  text-align: Left;
-  text-decoration: underline #fff;
-  font-size: 40px;
 }
 
-.my-work {
-  border: 5px solid #000;
-  border-top: none;
-  border-bottom: none;
+a:hover {
+  background-color: #8c8c8c;
+  color: #fff;
+  border: 3px solid #fff;
+}
+
+.contact-information {
+  display: flexbox;
+  justify-content: center;
+}
+
+section ul {
   display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+  list-style: none;
+  width: 500px;
 }
 
-.side {
+section ul li a {
   display: flex;
-  flex-direction: column;
-}
-
-.run-buddy {
-  display: block;
-  margin: 5px;
+  font-weight: lighter;
+  font-size: 1.55vw;
 }
