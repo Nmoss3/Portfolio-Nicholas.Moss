@@ -12,4 +12,4 @@ with so I decided to come back to it later.
 
 ## Example of provided work
 
-![image](/assets/images/portfolio-screenshot.jpg "Screenshot of Portfolio)
+![image](/assets/images/portfolio-screenshot.jpg "Screenshot of Portfolio")
