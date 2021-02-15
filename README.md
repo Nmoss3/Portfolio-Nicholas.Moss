@@ -12,4 +12,10 @@ with so I decided to come back to it later.
 
 ## Example of provided work
 
-![image](/assets/images/portfolio-screenshot.jpg "Screenshot of Portfolio)
+![screenshot](/assets/images/portfolio-screenshot.jpg "Screenshot of Portfolio")
+
+## Website link
+
+## Contribution
+
+Made by Nicholas Moss
