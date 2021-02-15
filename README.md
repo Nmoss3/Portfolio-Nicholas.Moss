@@ -10,8 +10,16 @@ they I have worked on. You will find a short Biography, previous work and the be
 I was unable to display an expertise in flexbox or media queries. I did utilize my tools however everything I tried made the page difficult to work
 with so I decided to come back to it later.
 
-## Example of provided work
+## Website 
 
+https://nmoss3.github.io/Portfolio-Nicholas.Moss/.
+
+## Contributions
+
+Created by Nicholas Moss
+
+
+<<<<<<< HEAD
 ![screenshot](/assets/images/portfolio-screenshot.jpg "Screenshot of Portfolio")
 
 ## Website link
@@ -19,3 +27,5 @@ with so I decided to come back to it later.
 ## Contribution
 
 Made by Nicholas Moss
+=======
+>>>>>>> 5c56eb33e88259da7b665d5e1a155813b672ca6f
