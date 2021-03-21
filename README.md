@@ -19,13 +19,6 @@ https://nmoss3.github.io/Portfolio-Nicholas.Moss/.
 Created by Nicholas Moss
 
 
-<<<<<<< HEAD
-![screenshot](/assets/images/portfolio-screenshot.jpg "Screenshot of Portfolio")
 
-## Website link
 
-## Contribution
 
-Made by Nicholas Moss
-=======
->>>>>>> 5c56eb33e88259da7b665d5e1a155813b672ca6f
